@@ -88,7 +88,7 @@ Five queries were written to extract insights from the raw dataset. All queries 
 
 ## Dashboard Preview
 
-![Readmission Analysis Dashboard](<img width="1830" height="1249" alt="Readmission Analysis Dashboard" src="https://github.com/user-attachments/assets/93ab1ebb-4d6b-46f1-9282-0562d97d55d3" />
+![Readmission Analysis Dashboard](<img width="1830" height="1249" alt="Readmission Analysis Dashboard" src="https://github.com/user-attachments/assets/25e9ab23-7366-41a8-8072-7159fac6834c" />
 )
 
 ---
