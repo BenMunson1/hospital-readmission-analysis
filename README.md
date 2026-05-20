@@ -7,7 +7,9 @@
 
 ## Project Overview
 
-This project analyzes **101,766 patient records** from 130 U.S. hospitals to identify the key drivers of 30-day hospital readmission rates among diabetic patients. The goal was to surface actionable insights that could help healthcare organizations identify high-risk patients and reduce avoidable readmissions.
+1 in 9 diabetic patients is readmitted within 30 days. 
+This analysis identifies which patients are most at risk 
+and where hospitals should focus intervention efforts.
 
 The analysis covers three primary areas of investigation:
 - The overall 30-day readmission rate across the patient population
@@ -49,7 +51,7 @@ hospital-readmission-analysis/
 - Pediatric patients (0-10) had the lowest rate at **1.86%**
 
 ### 3. Effect of Medication Count
-- A clear upward trend exists between medication count and readmission risk among patients prescribed **1 to 42 medications**
+- A positive association exists between medication count and readmission risk among patients prescribed **1 to 42 medications**
 - Patients on higher medication counts are more likely to be readmitted within 30 days, suggesting medication complexity as a meaningful risk indicator
 - *Note: Medication counts with fewer than 50 patients were excluded to ensure statistical reliability*
 
