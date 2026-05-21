@@ -1,7 +1,7 @@
 # Hospital Patient Readmission Analysis
 **Tools:** SQL (SQLiteStudio) | Tableau  
 **Data Source:** [UCI Machine Learning Repository — Diabetes 130-US Hospitals Dataset (1999–2008)](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)  
-**Dashboard:** [View Live on Tableau Public](https://public.tableau.com/app/profile/benjamin.munson/viz/HospitalPatientReadmissionAnalysis/ReadmissionAnalysisDashboard)
+**Dashboard:** [View Live on Tableau Public](https://public.tableau.com/app/profile/benjamin.munson/viz/HospitalPatientReadmissionDashboard/ReadmissionAnalysisDashboard)
 
 ---
 
